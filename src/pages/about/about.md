@@ -98,9 +98,9 @@ Kobe Bryant
 
 [Google Scholar](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
 
-[Podcast]()
+[Podcast](https://anchor.fm/kwat)
 
-[YouTube](https://www.youtube.com/channel/UCYDeuExg0JHfKj4CfjQ260A)
+[YouTube](https://www.youtube.com/c/KwatME)
 
 [Twitter](https://twitter.com/kwatme)
 
