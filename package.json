@@ -3,25 +3,6 @@
     "build": "gatsby clean && gatsby build && rm -rf docs && mv public docs && echo \"kwatme.com\" > docs/CNAME",
     "clean": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,html}\""
   },
-  "dependencies": {
-    "-": "^0.0.1",
-    "gatsby": "^2.29.2",
-    "gatsby-background-image": "^1.3.1",
-    "gatsby-image": "^2.5.0",
-    "gatsby-plugin-google-gtag": "^3.2.0",
-    "gatsby-plugin-manifest": "^2.6.1",
-    "gatsby-plugin-offline": "^3.4.0",
-    "gatsby-plugin-react-helmet": "^3.4.0",
-    "gatsby-plugin-sharp": "^2.8.0",
-    "gatsby-remark-images": "^3.8.0",
-    "gatsby-remark-relative-images": "^2.0.2",
-    "gatsby-source-filesystem": "^2.5.0",
-    "gatsby-transformer-remark": "^2.13.0",
-    "gatsby-transformer-sharp": "^2.6.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
-  },
   "devDependencies": {
     "eslint": "^7.16.0",
     "eslint-config-airbnb": "^18.2.1",
@@ -31,5 +12,24 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "2.1.2"
+  },
+  "dependencies": {
+    "gatsby": "^3.2.1",
+    "gatsby-background-image": "^1.5.0",
+    "gatsby-cli": "^3.2.0",
+    "gatsby-image": "^3.2.0",
+    "gatsby-plugin-google-gtag": "^3.2.0",
+    "gatsby-plugin-manifest": "^3.2.0",
+    "gatsby-plugin-offline": "^4.2.0",
+    "gatsby-plugin-react-helmet": "^4.2.0",
+    "gatsby-plugin-sharp": "^3.2.0",
+    "gatsby-remark-images": "^4.2.0",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^3.2.0",
+    "gatsby-transformer-remark": "^3.2.0",
+    "gatsby-transformer-sharp": "^3.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
   }
 }
