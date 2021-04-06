@@ -1,6 +1,6 @@
 ## Background
 
-Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Homeless → Startup → Stanford MD-PhD candidate → More startup →
+Nomad from Kazakhstan → China → Japan → FIBA U16 Olympian → USA → Leukemia → Homeless → Startup → Stanford MD-PhD candidate → More startups →
 
 ---
 
@@ -50,15 +50,23 @@ Computational Biologist <span style="color:#20d9ba">@</span> Trey Ideker Lab <sp
 
 ##### 201506 - Present
 
-Cofounder and All Positions <span style="color:#20d9ba">@</span> Guardiome
+Cofounder and CTO <span style="color:#20d9ba">@</span> [Guardiome](https://guardiome.com)
 
 ##### 201510 - Present
 
 Data Analyst <span style="color:#20d9ba">@</span> Pablo Tamayo Lab <span style="color:#20d9ba">@</span> UCSD Moores Cancer Center
 
-##### 202006 - Present
+##### 202006 - 202012
 
-PhD Candidate <span style="color:#20d9ba">@</span> Ronald Davis Lab <span style="color:#20d9ba">@</span> Stanford Genome Technology Center
+Research <span style="color:#20d9ba">@</span> Ronald Davis Lab <span style="color:#20d9ba">@</span> Stanford Genome Technology Center
+
+##### 202101 - Present
+
+Cofounder and CEO <span style="color:#20d9ba">@</span> [Tiny Beasts](https://tinybeasts.org)
+
+##### 202103 - Present
+
+Research <span style="color:#20d9ba">@</span> Mark Davis Lab <span style="color:#20d9ba">@</span> Stanford Medicine
 
 ---
 
@@ -71,6 +79,8 @@ Pablo Tamayo
 Elon Musk
 
 Paul Graham
+
+Naval Ravikant
 
 James Dyson
 
@@ -89,21 +99,3 @@ Suzuki Ichiro
 Michael Jordan
 
 Kobe Bryant
-
----
-
-## Link
-
-[GitHub](https://github.com/kwatme)
-
-[Google Scholar](https://scholar.google.com/citations?user=PAM4lScAAAAJ)
-
-[Podcast](https://anchor.fm/kwat)
-
-[YouTube](https://www.youtube.com/c/KwatME)
-
-[Twitter](https://twitter.com/kwatme)
-
-[Instagram](https://www.instagram.com/kwat.me)
-
-[Zoom](https://stanford.zoom.us/my/kwatme?pwd=Q2dzVXUwdmhuZzg2Vkc4aFliSFFnQT09) (ask for password)
