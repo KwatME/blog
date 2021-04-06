@@ -61,23 +61,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        trackingIds: [
-          "G-9YRYMLE5CB",
-          "2412434867",
-          "268200402",
-          "G-H7RJ4YZ2V6",
-          "268233699",
-          "UA-186228916-4",
-          "",
-        ],
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-186228916-4",
+        head: true,
       },
     },
   ],
