@@ -66,6 +66,7 @@ module.exports = {
         trackingIds: ["UA-186228916-1", "G-WHP844DY2W"],
         pluginConfig: {
           head: true,
+          respectDNT: true,
         },
       },
     },
