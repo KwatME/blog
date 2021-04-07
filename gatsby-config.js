@@ -30,7 +30,7 @@ module.exports = {
       },
     },
     "gatsby-plugin-react-helmet",
-    // "gatsby-plugin-offline",
+    "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -64,9 +64,13 @@ module.exports = {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: ["G-WHP844DY2W"],
+        gtagConfig: {
+          anonymize_ip: true,
+          cookie_expires: 0,
+        },
         pluginConfig: {
           head: true,
-          respectDNT: true,
+          respectDNT: false,
         },
       },
     },
