@@ -8,10 +8,6 @@ Pagination
 
 Twitter commenting
 
-podcasts
-
-YouTube channels
-
 Logo
 
 https://www.w3schools.com
