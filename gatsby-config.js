@@ -43,8 +43,9 @@ module.exports = {
         icon: "assets/icon.jpeg",
       },
     },
-    "gatsby-transformer-sharp",
+    `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
