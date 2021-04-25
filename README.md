@@ -1,5 +1,3 @@
-Website of Kwat Medetgul-Ernar.
-
 ## To do
 
 `style={{maxWidth: 800}}`
