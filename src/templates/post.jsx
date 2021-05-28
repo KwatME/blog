@@ -6,7 +6,7 @@ import Layout from "../components/layout";
 import styleUnit from "../helpers/styleunit";
 
 export const result = graphql`
-  query($id: String!, $previousPostId: String, $nextPostId: String) {
+  query ($id: String!, $previousPostId: String, $nextPostId: String) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
