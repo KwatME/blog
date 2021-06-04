@@ -58,7 +58,7 @@ Data Analyst <span style="color:#20d9ba">@</span> Pablo Tamayo Lab <span style="
 
 ##### 202006 - 202012
 
-Research <span style="color:#20d9ba">@</span> Ronald Davis Lab <span style="color:#20d9ba">@</span> Stanford Genome Technology Center
+Researcher <span style="color:#20d9ba">@</span> Ronald Davis Lab <span style="color:#20d9ba">@</span> Stanford Genome Technology Center
 
 ##### 202101 - Present
 
@@ -66,7 +66,7 @@ Cofounder and CEO <span style="color:#20d9ba">@</span> [Tiny Beasts](https://tin
 
 ##### 202103 - Present
 
-Research <span style="color:#20d9ba">@</span> Mark Davis Lab <span style="color:#20d9ba">@</span> Stanford Medicine
+Researcher <span style="color:#20d9ba">@</span> Mark Davis Lab <span style="color:#20d9ba">@</span> Stanford Medicine
 
 ---
 
