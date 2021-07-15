@@ -50,7 +50,7 @@ Computational Biologist <span style="color:#20d9ba">@</span> Trey Ideker Lab <sp
 
 ##### 201506 - Present
 
-Cofounder and CTO <span style="color:#20d9ba">@</span> [Guardiome](https://guardiome.com)
+Founder <span style="color:#20d9ba">@</span> [Guardiome](https://guardiome.com)
 
 ##### 201510 - Present
 
@@ -62,7 +62,7 @@ Researcher <span style="color:#20d9ba">@</span> Ronald Davis Lab <span style="co
 
 ##### 202101 - Present
 
-Cofounder and CEO <span style="color:#20d9ba">@</span> [Tiny Beasts](https://tinybeasts.org)
+Founder <span style="color:#20d9ba">@</span> [Tiny Beasts](https://tinybeasts.org)
 
 ##### 202103 - Present
 
